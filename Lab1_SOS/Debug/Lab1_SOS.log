@@ -1,0 +1,9 @@
+﻿  Lab1_SOS.c
+  allocator.c
+C:\Users\vladi\OneDrive\Документы\Study\SOS - Симоненко\Lab1_SOS\Lab1_SOS\allocator.c(77,34): warning C4028: formal parameter 1 different from declaration
+C:\Users\vladi\OneDrive\Документы\Study\SOS - Симоненко\Lab1_SOS\Lab1_SOS\allocator.c(201,23): warning C4133: 'function': incompatible types - from 'mem_block_header_t *' to 'unsigned char *'
+C:\Users\vladi\OneDrive\Документы\Study\SOS - Симоненко\Lab1_SOS\Lab1_SOS\allocator.c(240,11): warning C4098: 'split_mem_block': 'void' function returning a value
+C:\Users\vladi\OneDrive\Документы\Study\SOS - Симоненко\Lab1_SOS\Lab1_SOS\allocator.c(282,28): warning C4047: 'function': 'unsigned char *' differs in levels of indirection from 'mem_block_header_t **'
+C:\Users\vladi\OneDrive\Документы\Study\SOS - Симоненко\Lab1_SOS\Lab1_SOS\allocator.c(282,28): warning C4024: 'freeAndUnProtected': different types for formal and actual parameter 1
+  Generating Code...
+  Lab1_SOS.vcxproj -> C:\Users\vladi\OneDrive\Документы\Study\SOS - Симоненко\Lab1_SOS\Debug\Lab1_SOS.exe
